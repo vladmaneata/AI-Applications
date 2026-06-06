@@ -31,8 +31,3 @@ The goal of this repository is to practice and understand practical AI/ML applic
 - Basic ML concepts
 - Reinforcement Learning fundamentals
 
----
-
-## 🚀 Status
-
-Work in progress — more AI experiments will be added over time.
